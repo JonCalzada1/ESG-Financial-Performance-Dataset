@@ -23,7 +23,7 @@ This Tableau dashboard project offers an interactive overview of critical busine
 
 You can explore the interactive version of this dashboard on **Tableau Public**:
 
-[View Dashboard on Tableau]([https://public.tableau.com/your-dashboard-link](https://public.tableau.com/views/BusinessESGPerformanceOverview/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+**[View Dashboard on Tableau Public](https://public.tableau.com/views/BusinessESGPerformanceOverview/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 
 ## Insights
